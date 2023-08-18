@@ -1,6 +1,6 @@
 # Free and Open Art License
 
-A copyleft license for digiral artwork that covery where Creative Commons and Free Art License falls short.
+A copyleft license for digiral artwork that cover where Creative Commons and Free Art License falls short.
 
 ## Why
 
