@@ -1,39 +1,41 @@
 Free and Open Art License (FOAL) - Modified Version
 
-Version 1.1
+Version 2.1
 
 Preamble:
 The Free and Open Art License (FOAL) promotes artistic creativity, collaboration, and the open sharing of source materials. FOAL aims to ensure that derivative works are freely available for others to use, adapt, and build upon, while upholding the principles of copyleft and community. This license grants specific permissions and establishes obligations, which are detailed below.
 
 License Terms:
+1. Definitions:
+   a) "Artwork" encompasses diverse forms of creative expression, including but not limited to paintings, sculptures, photographs, digital art, installations, and performances, all protected by copyright law.
+   b) "Source Materials" refers to the resources, references, or components utilized in creating the Artwork. This includes sketches, photographs, digital files, scripts, notes, and other materials contributing to the Artwork's creation.
+   c) "Derivative Work" denotes any work based on, derived from, or substantially incorporating elements of the original Artwork or its Source Materials.
+   d) "Appended Components" refers to new materials added to the Derivative Work that are not derived from the original Source Materials.
 
-    Definitions:
-    a) "Artwork" encompasses diverse forms of creative expression, including but not limited to paintings, sculptures, photographs, digital art, installations, and performances, all protected by copyright law.
-    b) "Source Materials" refers to the resources, references, or components utilized in creating the Artwork. This includes sketches, photographs, digital files, scripts, notes, and other materials contributing to the Artwork's creation.
-    c) "Derivative Work" denotes any work based on, derived from, or substantially incorporating elements of the original Artwork or its Source Materials.
-    d) "Appended Components" refers to new materials added to the Derivative Work that are not derived from the original Source Materials.
+2. License Grant:
+   a) The creator of the Artwork (referred to as the "Licensor") grants any individual or entity (referred to as the "Licensee") the non-exclusive, worldwide, royalty-free right to use, copy, modify, distribute, publicly display, perform, and create Derivative Works based on the Artwork, subject to the conditions and limitations outlined in this license.
 
-    License Grant:
-    a) The creator of the Artwork (referred to as the "Licensor") grants any individual or entity (referred to as the "Licensee") the non-exclusive, worldwide, royalty-free right to use, copy, modify, distribute, publicly display, perform, and create Derivative Works based on the Artwork, subject to the conditions and limitations outlined in this license.
+3. Modification and Sharing of Source Materials:
+   a) If the Licensee modifies any Source Materials used in the Artwork, they must share the modified Source Materials in their entirety, regardless of whether the modifications are alterations, adaptations, or transformations.
+   b) The Licensee must ensure that the shared modified Source Materials are easily accessible, either directly or through readily available sources, such as a website.
+   c) This requirement pertains only to modifications of the original Source Materials and does not extend to Appended Components.
 
-    Modification and Sharing of Source Materials:
-    a) If the Licensee modifies any Source Materials used in the Artwork, they must share the modified Source Materials in their entirety, regardless of whether the modifications are alterations, adaptations, or transformations.
-    b) The Licensee must ensure that the shared modified Source Materials are easily accessible, either directly or through readily available sources, such as a website.
-    c) This requirement pertains only to modifications of the original Source Materials and does not extend to Appended Components.
+4. Distribution of Source Materials:
+   a) The shared modified Source Materials must be distributed in an unobfuscated and unencrypted form that allows for easy access, analysis, and understanding by others. Distribution in any form that intentionally obstructs or hinders the open sharing and comprehension of the Source Materials is prohibited under this license.
 
-    Appended Components:
-    a) Appended Components are not subject to the sharing requirement mentioned in section 3. Licensees may add new elements, materials, or resources to their Derivative Work without being obliged to share these additions under the FOAL license.
-    b) Licensees must clearly distinguish between the original Artwork, its Source Materials, modified Source Materials, and any Appended Components. Any changes made to the original Artwork or Source Materials must be identified and indicated as distinct from the original.
+5. Appended Components:
+   a) Appended Components are not subject to the sharing requirement mentioned in section 3. Licensees may add new elements, materials, or resources to their Derivative Work without being obliged to share these additions under the FOAL license.
+   b) Licensees must clearly distinguish between the original Artwork, its Source Materials, modified Source Materials, and any Appended Components. Any changes made to the original Artwork or Source Materials must be identified and indicated as distinct from the original.
 
-    Attribution and Integrity:
-    a) The Licensee must give appropriate credit to the Licensor, including the original creator's name and a reference to the Artwork and its Source Materials, whenever displaying, performing, distributing, or making Derivative Works available.
-    b) Any modifications or alterations to the Artwork, Source Materials, or Appended Components must be clearly marked to indicate that they are not endorsed by the Licensor.
+6. Attribution and Integrity:
+   a) The Licensee must give appropriate credit to the Licensor, including the original creator's name and a reference to the Artwork and its Source Materials, whenever displaying, performing, distributing, or making Derivative Works available.
+   b) Any modifications or alterations to the Artwork, Source Materials, or Appended Components must be clearly marked to indicate that they are not endorsed by the Licensor.
 
-    Copyleft Provision:
-    a) The Licensee must apply the terms of this license to any Derivative Works they create, ensuring subsequent users have the same rights and obligations.
+7. Copyleft Provision:
+   a) The Licensee must apply the terms of this license to any Derivative Works they create, ensuring subsequent users have the same rights and obligations.
 
-    No Endorsement:
-    a) The Licensor does not endorse or guarantee the quality, fitness for purpose, or accuracy of any Derivative Works, Source Materials, or Appended Components. The Licensor is not liable for damages arising from their use.
+8. No Endorsement:
+   a) The Licensor does not endorse or guarantee the quality, fitness for purpose, or accuracy of any Derivative Works, Source Materials, or Appended Components. The Licensor is not liable for damages arising from their use.
 
-    Termination:
-    a) This FOAL license is perpetual and remains active unless terminated by either party. The Licensor may terminate the license if the Licensee fails to comply with its terms. Upon termination, Licensees must cease using the Artwork, its Source Materials, and any shared modified Source Materials. Appended Components are not affected by the termination and may continue to be used, shared, and distributed.
+9. Termination:
+   a) This FOAL license is perpetual and remains active unless terminated by either party. The Licensor may terminate the license if the Licensee fails to comply with its terms. Upon termination, Licensees must cease using the Artwork, its Source Materials, and any shared modified Source Materials. Appended Components are not affected by the termination and may continue to be used, shared, and distributed.
