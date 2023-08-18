@@ -1,6 +1,6 @@
 Free and Open Art License (FOAL) - Modified Version
 
-Version 2.1
+Version 1.1
 
 Preamble:
 The Free and Open Art License (FOAL) promotes artistic creativity, collaboration, and the open sharing of source materials. FOAL aims to ensure that derivative works are freely available for others to use, adapt, and build upon, while upholding the principles of copyleft and community. This license grants specific permissions and establishes obligations, which are detailed below.
